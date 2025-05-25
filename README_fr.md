@@ -32,6 +32,7 @@ Le projet est structuré en quatre grandes parties :
 
 ### 2 - Segmentation des clients
 - Préparation des données RFM
+- Choix du modèle
 - Optimisation du nombre de clusters
 - Visualisation des clusters
 - Interprétation des clusters
