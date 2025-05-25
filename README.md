@@ -32,6 +32,7 @@ The project is organized into four main parts:
 
 ### 2 - Customer Segmentation
 - RFM data preparation
+- Model selection
 - Optimization of cluster numbers
 - Cluster visualization
 - Cluster interpretation
